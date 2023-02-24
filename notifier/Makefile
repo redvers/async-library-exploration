@@ -1,3 +1,3 @@
 all:
 	ponyc -d .
-	./async-library-exploration
+	./notifier
